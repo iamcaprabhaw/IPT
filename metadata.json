@@ -1,0 +1,5 @@
+{
+  "name": "Invoice Processing Tool (IPT) Training 04032026",
+  "description": "An automated tool to extract, manage, and analyze invoice data from PDFs and images with a comprehensive dashboard and export capabilities.",
+  "requestFramePermissions": ["camera"]
+}
